@@ -1,18 +1,31 @@
 # Supernature
 
-We help French mid-market companies move from AI ambition to production deployment.
+**From wanting to do AI to actually doing it.**
 
-## What we do
+We are an AI-native consultancy. We build AI agents that run in production inside
+French mid-market companies, with their teams, and we hand the keys back.
 
-- **AI literacy & training** — practical upskilling for teams, from executives to operators.
-- **AI audit** — clear assessment of current capabilities, use cases, data, and readiness.
-- **AI strategy** — a prioritized roadmap tied to business outcomes, not technology hype.
-- **Agent design & deployment** — building and shipping AI agents that run in production.
+## How we work — the AI Task Force
+
+A bounded mission, in three acts, with dated deliverables and a full handover.
+
+| Phase | Duration | What you get |
+|-------|----------|--------------|
+| **AI Discovery** | 5 days | A prioritised, costed plan. We map your processes and pick the first project worth doing. |
+| **Task Force 60** | 60 days | One to three automations in production, built on your stack, with your teams. |
+| **Run & Scale** | monthly | Your teams take over. We supervise, adjust, and extend, never create a dependency. |
+
+## What we automate
+
+Triage and routing, document processing, operational processes, reporting and consolidation.
 
 ## Who we work with
 
-ETIs (mid-market companies) headquartered in France, typically 250 to 5,000 employees, outside the CAC 40. Industrial, services, retail, healthcare — sectors where AI value is real but execution paths remain unclear.
+Mid-market companies headquartered in France, in sectors where AI value is real
+but the path to production stays unclear.
 
-## Approach
+## Principles
 
-We focus on what reaches production. Less slideware, more shipped systems.
+- We build with your teams, not instead of them. The know-how stays with you.
+- Fixed scope, fixed price. No tunnel, no slideware.
+- What reaches production is what counts.
